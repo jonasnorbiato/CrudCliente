@@ -15,6 +15,7 @@ namespace CrudCliente
                 Console.WriteLine("3 - listar cliente");
                 Console.WriteLine("4 - excluir cliente");
                 Console.WriteLine("5 - sair");
+                COnsole.WriteLine("teste teste");
 
                 var opcao = Console.ReadLine();
                 switch (opcao)
